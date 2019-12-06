@@ -6,7 +6,8 @@ titanic.r
 * 의류산업에서 헌 옷 수출에 있어 수작업으로 옷을 분류하는 작업을 옷을 인식하여
   자동으로 분류해주는 자동화시스템을 도입하여 편리함과 시간단축으로 인건비절감, 효율 극대화
   
-### D
+### 데이터
+
   
 ### Keras accuracy
 ![keras 정확도](https://user-images.githubusercontent.com/54020231/70233231-7cd92300-17a1-11ea-968d-1237801b5a14.JPG)
